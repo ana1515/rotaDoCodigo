@@ -1,4 +1,4 @@
-import "./aboutProject.css";
+import "./AboutProject.css";
 
 export default function AboutProject() {
   return (
@@ -17,8 +17,8 @@ export default function AboutProject() {
                 Por trás de cada grande inovação tecnológica, existe uma mente
                 curiosa e preparada.
               </p>
-            
-  
+
+
               <p>
                 Nossa missão é democratizar o acesso ao ensino de tecnologia de
                 alta qualidade, preparando a próxima geração para os desafios de

@@ -60,9 +60,8 @@ export default function Slider() {
         {/* TEXTO */}
         <div className="hero-text">
           <div
-            className={`slide-content ${
-              isTransitioning ? "slide-entering" : "slide-visible"
-            }`}
+            className={`slide-content ${isTransitioning ? "slide-entering" : "slide-visible"
+              }`}
           >
             <h1>{slide.title}</h1>
             <p>{slide.description}</p>
